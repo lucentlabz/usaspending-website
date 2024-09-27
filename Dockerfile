@@ -1,4 +1,4 @@
-FROM node:18.17.0
+FROM node:18.20.3
 
 # Default environment variables
 ENV ENV=prod USASPENDING_API=https://api.usaspending.gov/api/ MAPBOX_TOKEN='' GA_TRACKING_ID=''
