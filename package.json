@@ -210,7 +210,7 @@
     "react-checkbox-tree": "1.8.0",
     "react-copy-to-clipboard": "^5.0.1",
     "react-custom-scrollbars": "^4.1.2",
-    "react-day-picker": "^9.0.8",
+    "react-day-picker": "^9.0.9",
     "react-dom": "^18.3.1",
     "react-flip-toolkit": "^7.2.4",
     "react-helmet": "^6.1.0",
