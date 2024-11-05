@@ -162,7 +162,7 @@
     "ws": "^8.17.1"
   },
   "dependencies": {
-    "@babel/eslint-parser": "^7.25.1",
+    "@babel/eslint-parser": "^7.25.8",
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
     "@fortawesome/free-regular-svg-icons": "^6.6.0",
