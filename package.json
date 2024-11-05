@@ -201,7 +201,7 @@
     "linkifyjs": "^4.1.0",
     "lodash": "^4.17.21",
     "lottie-web": "^5.9.6",
-    "mapbox-gl": "^3.6.0",
+    "mapbox-gl": "^3.7.0",
     "mockdate": "^3.0.5",
     "postcss": "^8.4.47",
     "prop-types": "^15.7.2",
