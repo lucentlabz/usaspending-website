@@ -226,7 +226,7 @@
     "recharts": "^2.12.7",
     "redux": "^5.0.1",
     "redux-perf-middleware": "^1.2.2",
-    "sass": "^1.78.0",
+    "sass": "^1.79.5",
     "stream": "^0.0.3",
     "streamx": "^2.20.1",
     "swiper": "^11.1.14",
